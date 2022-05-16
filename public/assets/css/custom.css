@@ -1,0 +1,82 @@
+/*------------------------------------------------------------------
+    File Name: custom.css
+-------------------------------------------------------------------*/
+
+/** ADD YOUR AWESOME CODES HERE **/
+
+.box {
+    border-style: solid;
+    border-color:rgb(23, 34, 238);
+    border-width: 1px;
+    height: inherit;
+
+}
+
+.adanget {
+    background: #fff;
+    box-shadow: 0px 1px 2px 0px #acaeaf;
+    -webkit-box-shadow: 0px 1px 2px 0px #acaeaf;
+    margin-top: auto;
+    clear: both;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+  }
+
+  .widget .widget_title {
+    background: url(../images/widget_title_bg.png) repeat-x center top #eeeeee;
+    height: 45px;
+    border-bottom: solid 1px #e0e0e0;
+    border-radius: 3px 3px 0px 0px;
+  }
+
+  .widget .widget_title span {
+    font-size: 30px;
+    float: left;
+    padding: 0px 0px;
+    margin: -5px 10px 0 10px;
+    text-shadow: 0px 1px 0px #fff;
+    -webkit-text-shadow: 0px 1px 0px #fff;
+    color: #6c6c6c;
+    width: 34px;
+    text-align: center;
+  }
+  .widget .widget_title h5 {
+    color: #004f9d;
+    font-size: 17px;
+    font-family: CorbelBold;
+    float: left;
+    padding: 13px 0px 0px;
+    text-shadow: 0px 1px 0px #fff;
+  }
+
+
+.line-hr{
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  margin-left: 4%;
+  color: #004f9d;
+  height: 10px;
+}
+
+.sidebar-text{
+  color:white;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.sidebar-li{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
+
+.login-bg {
+  background-image: url("../images/login/1318238.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+  
+  
